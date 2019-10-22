@@ -77,14 +77,14 @@
 								<li><a href="https://www.linkedin.com/in/elizeu-grosskopf-schlottfeldt-neto-438427165/" class="icon brands fa-linkedin">LinkedIn</a></li>
 							</ul>
 							<ul class="actions stacked fit">
-								<li><a href="#" class="button">Get Started</a></li>
-								<li><a href="#" class="button">Works</a></li>
+								<li><a href="#inicio" class="button scroll">Get Started</a></li>
+								<li><a href="#page3" class="button scroll">Works</a></li>
 							</ul>
 						</footer>
 					</section>
 
 			</div>
-			<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+			<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right" id="inicio">
 					<div class="content" id="texto" name="cabeçalhopage2">
 						<h2 id="cabeçalho">-I'm Elizeu, a Quant, a Freelance Developer & Designer. Nice to meet you.</h2>
 	                    <br>
@@ -204,5 +204,14 @@
     <!--Script que insere o Jquery -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="assets/js/materialize.min.js"></script>
+     <!--Script que cria o efeito de scroll suave pra links internos -->
+    <script type="text/javascript">
+        jQuery(document).ready(function($) { 
+        $(".scroll").click(function(event){        
+        event.preventDefault();
+        $('html,body').animate({scrollTop:$(this.hash).offset().top}, 1000);
+        });
+        });
+    </script>
 
 </html>
