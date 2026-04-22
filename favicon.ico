@@ -1,0 +1,7 @@
+<!-- Este é um arquivo binário, mas como não podemos criar arquivos binários diretamente, 
+     você precisará converter o favicon.svg para favicon.ico usando uma ferramenta online 
+     ou um comando como:
+     
+     convert favicon.svg -define icon:auto-resize=64,48,32,16 favicon.ico
+     
+     Ou usar um serviço online como https://realfavicongenerator.net/ -->

@@ -1,0 +1,68 @@
+# Site settings
+title: "V-Shape Plano Completo"
+description: "Plano completo V-Shape com alimentação, suplementação, treino, cardio, estratégias sociais e projeção de progresso."
+author: "V-Shape Fitness"
+baseurl: ""
+url: "https://cloker98.github.io"
+
+# SEO settings
+lang: pt-BR
+timezone: America/Sao_Paulo
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+encoding: utf-8
+
+# Jekyll plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Plugin settings
+feed:
+  excerpt_only: true
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - .git
+  - .gitignore
+
+# Include files
+include:
+  - _pages
+
+# Collections
+collections:
+  layouts:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      
+# Sass settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Compression
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
