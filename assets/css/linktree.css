@@ -1,0 +1,109 @@
+/* Linktree Style */
+.linktree-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+}
+
+.profile {
+  margin-bottom: 2rem;
+}
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid #e8a020;
+}
+
+.profile h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.profile p {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1rem;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.link-card {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.3s ease;
+  text-align: left;
+}
+
+.link-card:hover {
+  transform: translateY(-3px);
+  background: rgba(232, 160, 32, 0.1);
+  border-color: rgba(232, 160, 32, 0.4);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.link-icon {
+  font-size: 2rem;
+  margin-right: 1rem;
+  min-width: 40px;
+  text-align: center;
+}
+
+.link-content h2 {
+  font-size: 1.2rem;
+  margin: 0 0 0.25rem 0;
+}
+
+.link-content p {
+  font-size: 0.9rem;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.linktree-footer {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Dark theme with gradient background */
+body {
+  background: linear-gradient(135deg, #0d0f14 0%, #1c1f24 100%);
+  color: #fff;
+  min-height: 100vh;
+}
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+  .link-card {
+    padding: 0.75rem;
+  }
+  
+  .link-icon {
+    font-size: 1.5rem;
+    margin-right: 0.75rem;
+  }
+  
+  .link-content h2 {
+    font-size: 1rem;
+  }
+  
+  .link-content p {
+    font-size: 0.8rem;
+  }
+}
