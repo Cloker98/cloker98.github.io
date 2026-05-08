@@ -2023,7 +2023,7 @@
         grid-template-columns: 1fr
       }
 
-      .footer {
+      footer {
         flex-direction: column;
         gap: 1rem;
         text-align: center;
@@ -2070,5 +2070,68 @@
 
       .about-stats {
         grid-template-columns: 1fr
+      }
+    }
+
+    /* ── LAYOUT HELPER CLASSES (replace inline grid styles) ── */
+
+    .founder-outer-grid {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 5rem;
+      align-items: start;
+    }
+
+    .founder-inner-grid {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 3rem;
+      align-items: start;
+    }
+
+    .founder-stats-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+
+    .skills-cats-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .skills-bars-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem 3rem;
+    }
+
+    @media (max-width: 900px) {
+      .founder-outer-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      #hero { padding: 6rem 1.25rem 4rem !important; }
+
+      #matrixCanvas,
+      #heroMatrixOverlay { display: none; }
+
+      .nav-badge { display: none; }
+
+      .founder-inner-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+
+      .skills-cats-grid { grid-template-columns: 1fr; }
+
+      .skills-bars-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
       }
     }

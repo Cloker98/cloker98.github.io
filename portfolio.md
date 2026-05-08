@@ -53,7 +53,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
     <div class="hero-bg"></div>
     <!-- MATRIX CANVAS -->
     <canvas id="matrixCanvas" style="position:absolute;right:0;top:0;width:55%;height:100%;z-index:0;opacity:0.22;pointer-events:none;"></canvas>
-    <div style="position:absolute;right:0;top:0;width:55%;height:100%;z-index:1;background:radial-gradient(ellipse at 70% 50%, transparent 30%, var(--dark) 80%);pointer-events:none;"></div>
+    <div id="heroMatrixOverlay" style="position:absolute;right:0;top:0;width:55%;height:100%;z-index:1;background:radial-gradient(ellipse at 70% 50%, transparent 30%, var(--dark) 80%);pointer-events:none;"></div>
     <div class="hero-scanline"></div>
 
     <!-- HERO CONTENT -->
@@ -552,10 +552,10 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
       <div class="section-label reveal">04 — O Fundador</div>
       <h2 class="section-title reveal reveal-delay-1">Elizeu Neto — <span class="outline-word">quem está por trás</span></h2>
 
-      <div style="display:grid;grid-template-columns:1fr auto;gap:5rem;align-items:start;" class="reveal reveal-delay-2">
+      <div class="founder-outer-grid reveal reveal-delay-2">
 
         <!-- BIO + PHOTO -->
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:3rem;align-items:start;">
+        <div class="founder-inner-grid">
 
           <!-- PHOTO -->
           <div style="position:relative;flex-shrink:0;">
@@ -622,7 +622,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         </div>
 
         <!-- STATS -->
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+        <div class="founder-stats-grid">
           <div style="border:1px solid var(--primary-40);border-radius:var(--radius-md);padding:1.5rem;background:var(--primary-05);text-align:center;">
             <div style="font-size:2rem;font-weight:900;color:var(--primary);letter-spacing:-.04em;line-height:1;">8+</div>
             <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;margin-top:.4rem;">Anos</div>
@@ -657,7 +657,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
       <div class="reveal reveal-delay-2" style="margin-bottom: 3.5rem;">
         <div class="section-label" style="margin-bottom:1.25rem; color: var(--primary);">🔷 Back-End .NET &amp; Azure —
           Stack Principal</div>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
+        <div class="skills-cats-grid">
 
           <div class="ts-category"
             style="border-color: var(--primary-40); background: linear-gradient(135deg, var(--primary-05), transparent);">
@@ -722,7 +722,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         </div>
 
         <!-- .NET PROFICIENCY BARS -->
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem 3rem;">
+        <div class="skills-bars-grid">
           <div>
             <div class="metric-bar">
               <div class="metric-bar-header"><span>C# / .NET Core</span><span>93%</span></div>
@@ -772,7 +772,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
       <div class="reveal reveal-delay-3" style="opacity: 0.75;">
         <div class="section-label" style="margin-bottom:1.25rem; color: var(--light-60);">☕ Back-End Java — Experiência
           Enterprise</div>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem 3rem;">
+        <div class="skills-bars-grid">
           <div>
             <div class="metric-bar">
               <div class="metric-bar-header"><span>Java 17+ (Records, Sealed, Threads)</span><span>90%</span></div>
