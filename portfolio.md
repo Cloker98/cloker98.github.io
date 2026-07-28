@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: "Maverick Studio — ASP.NET Backend Engineer · .NET · C# · Azure · AI-First"
-description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Core, C#, ASP.NET MVC, Azure DevOps, Entity Framework, SQL Server. AI-First com RAG e LLMs."
+description: "Elizeu Neto's portfolio — ASP.NET Senior Backend Engineer. .NET Core, C#, ASP.NET MVC, Azure DevOps, Entity Framework, SQL Server. AI-First with RAG and LLMs."
 ---
 
 
@@ -23,7 +23,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
     </video>
     <div class="preloader-content">
       <div class="preloader-logo">MS</div>
-      <div class="preloader-tag">Iniciando missão...</div>
+      <div class="preloader-tag">Initializing mission...</div>
       <div class="preloader-bar-wrap">
         <div class="preloader-bar" id="preloaderBar"></div>
       </div>
@@ -34,16 +34,16 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <nav id="navbar">
     <a href="#hero" class="nav-logo">MAVERICK<span>/</span>STUDIO</a>
     <ul class="nav-links" id="navLinks">
-      <li><a href="#about">A Empresa</a></li>
+      <li><a href="#about">The Company</a></li>
       <li><a href="#experience">Cases</a></li>
-      <li><a href="#sdd">Metodologia</a></li>
-      <li><a href="#minha-stack">Fundador</a></li>
+      <li><a href="#sdd">Methodology</a></li>
+      <li><a href="#minha-stack">Founder</a></li>
       <li><a href="#skills">Expertise</a></li>
-      <li><a href="#services">Soluções</a></li>
-      <li><a href="#contact">Contato</a></li>
+      <li><a href="#services">Solutions</a></li>
+      <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="nav-badge">
-      <div class="dot-live"></div>Disponível
+      <div class="dot-live"></div>Available
     </div>
     <button class="nav-menu-btn" id="menuBtn" aria-label="Menu">☰</button>
   </nav>
@@ -61,7 +61,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
 
       <!-- STUDIO TAG -->
       <div class="hero-tag" style="margin-bottom:2rem;display:inline-flex;">
-        Maverick Studio · Desenvolvimento de Software · AI-First
+        Maverick Studio · Software Development · AI-First
       </div>
 
       <!-- MAIN TITLE -->
@@ -72,10 +72,10 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
 
       <!-- STUDIO VALUE PROPOSITION -->
       <p class="hero-sub" style="text-align:left;max-width:620px;margin-bottom:1.5rem;">
-        Construímos sistemas enterprise <strong>sem débito técnico</strong>. Especialistas em
+        We build enterprise systems <strong>without technical debt</strong>. Specialists in
         <strong>ASP.NET Core · .NET · C#</strong>, <strong>Java 17+ · Spring Boot</strong>
-        e arquiteturas <strong>AI-First</strong> no Azure — com rastreabilidade total via
-        metodologia <strong>SDD</strong>.
+        and <strong>AI-First</strong> architectures on Azure — with full traceability via
+        the <strong>SDD</strong> methodology.
       </p>
 
       <!-- PILLARS ROW -->
@@ -90,18 +90,18 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         </div>
         <div style="display:flex;align-items:center;gap:.625rem;">
           <div style="width:6px;height:6px;border-radius:50%;background:var(--primary);"></div>
-          <span style="font-family:var(--font-mono);font-size:.75rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;">IA Generativa &amp; LLMs</span>
+          <span style="font-family:var(--font-mono);font-size:.75rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;">Generative AI &amp; LLMs</span>
         </div>
         <div style="display:flex;align-items:center;gap:.625rem;">
           <div style="width:6px;height:6px;border-radius:50%;background:var(--primary);"></div>
-          <span style="font-family:var(--font-mono);font-size:.75rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;">Zero Débito Técnico</span>
+          <span style="font-family:var(--font-mono);font-size:.75rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;">Zero Technical Debt</span>
         </div>
       </div>
 
       <div class="hero-actions" style="justify-content:flex-start;">
-        <a href="#services" class="btn btn-primary btn-lg">Ver Soluções</a>
-        <a href="#minha-stack" class="btn btn-outline btn-lg">Conheça o Fundador</a>
-        <a href="#contact" class="btn btn-outline btn-lg">Fale Conosco</a>
+        <a href="#services" class="btn btn-primary btn-lg">View Solutions</a>
+        <a href="#minha-stack" class="btn btn-outline btn-lg">Meet the Founder</a>
+        <a href="#contact" class="btn btn-outline btn-lg">Get in Touch</a>
       </div>
     </div>
 
@@ -145,45 +145,45 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <!-- ABOUT -->
   <section id="about">
     <div class="section-wrap">
-      <div class="section-label reveal">01 — A Empresa</div>
+      <div class="section-label reveal">01 — The Company</div>
       <div class="about-grid">
         <div>
           <h2 class="section-title reveal reveal-delay-1">
-            Desenvolvimento <span class="outline-word">orientado a resultado</span>
+            Development <span class="outline-word">driven by results</span>
           </h2>
           <div class="about-bio reveal reveal-delay-2">
-            <p>O <strong>Maverick Studio</strong> nasceu da convicção de que software de qualidade exige método rigoroso.
-              Operamos em todo o ciclo de entrega — da especificação de requisitos à implantação em ambientes cloud-native
-              — com rastreabilidade total entre requisito, design e código.
+            <p><strong>Maverick Studio</strong> was born from the conviction that quality software demands a rigorous method.
+              We operate across the full delivery cycle — from requirements specification to deployment in cloud-native environments
+              — with full traceability between requirement, design, and code.
             </p>
-            <p>Nossa abordagem é <strong>AI-First</strong>: cada desafio de software é filtrado pela pergunta
-              "como a IA pode potencializar isso?". O SDD (Specification-Driven Development) garante que cada linha de
-              código nasce de um contrato aprovado — sem ambiguidades, sem retrabalho, sem débito técnico.</p>
-            <p>Stack de alto desempenho: <strong>.NET/C# + Azure</strong> para sistemas enterprise modernos,
-              <strong>Java 17+ com Spring</strong> para ecossistemas de missão crítica, e <strong>IA
-                Generativa</strong> (LangChain, RAG, LLMs) integrada como componente de primeira classe.
+            <p>Our approach is <strong>AI-First</strong>: every software challenge is filtered through the question
+              "how can AI amplify this?". SDD (Specification-Driven Development) ensures that every line of
+              code is born from an approved contract — no ambiguity, no rework, no technical debt.</p>
+            <p>High-performance stack: <strong>.NET/C# + Azure</strong> for modern enterprise systems,
+              <strong>Java 17+ with Spring</strong> for mission-critical ecosystems, and <strong>Generative
+                AI</strong> (LangChain, RAG, LLMs) integrated as a first-class component.
             </p>
           </div>
           <div style="margin-top:2rem" class="reveal reveal-delay-3">
-            <a href="#contact" class="btn btn-outline">Fale com a Gente ↗</a>
+            <a href="#contact" class="btn btn-outline">Talk to Us ↗</a>
           </div>
         </div>
         <div class="about-stats reveal reveal-delay-2">
           <div class="stat-item">
             <div class="stat-number" data-target="8">0</div>
-            <div class="stat-label">Anos de Experiência em Desenvolvimento de Software</div>
+            <div class="stat-label">Years of Software Development Experience</div>
           </div>
           <div class="stat-item">
             <div class="stat-number" data-target="0">0</div>
-            <div class="stat-label" style="font-size:.8rem">% Débito Técnico (SDD Gate)</div>
+            <div class="stat-label" style="font-size:.8rem">% Technical Debt (SDD Gate)</div>
           </div>
           <div class="stat-item">
             <div class="stat-number" data-target="40">0</div>
-            <div class="stat-label">Projetos entregues em produção</div>
+            <div class="stat-label">Projects shipped to production</div>
           </div>
           <div class="stat-item">
             <div class="stat-number" data-target="100">0</div>
-            <div class="stat-label">% Rastreabilidade spec→código</div>
+            <div class="stat-label">% Spec→code traceability</div>
           </div>
         </div>
       </div>
@@ -194,30 +194,30 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <!-- EXPERIENCE -->
   <section id="experience">
     <div class="section-wrap">
-      <div class="section-label reveal">02 — Cases & Resultados</div>
-      <h2 class="section-title reveal reveal-delay-1">Entregas <span class="outline-word">Reais</span> em Produção</h2>
-      <p class="section-desc reveal reveal-delay-2">Produtos em produção que provam a qualidade das entregas — de
-        plataformas .NET enterprise a sistemas de alta disponibilidade no setor público.</p>
+      <div class="section-label reveal">02 — Cases & Results</div>
+      <h2 class="section-title reveal reveal-delay-1"><span class="outline-word">Real</span> Production Deliveries</h2>
+      <p class="section-desc reveal reveal-delay-2">Production products that prove delivery quality — from enterprise .NET
+        platforms to high-availability systems in the public sector.</p>
       <div class="exp-grid reveal reveal-delay-3">
 
         <!-- CI&T — DESTAQUE .NET (card primário com glow) -->
         <div class="exp-card" style="border-color: var(--primary-40); animation: glowPulse 4s ease-in-out infinite;">
           <div class="exp-org" style="color:var(--primary);">CI&amp;T</div>
           <div class="exp-role">AI Specialist Developer · ASP.NET Full Stack &amp; GenAI</div>
-          <div class="exp-period">Mar 2025 &mdash; Presente &middot; Remoto</div>
+          <div class="exp-period">Mar 2025 &mdash; Present &middot; Remote</div>
           <div class="exp-desc">
-            Arquitetando soluções enterprise em <strong>.NET</strong> com abordagem <strong>AI-First</strong>: APIs que
-            combinam operações robustas com endpoints de IA Generativa em produção.
+            Architecting enterprise solutions in <strong>.NET</strong> with an <strong>AI-First</strong> approach: APIs that
+            combine robust operations with Generative AI endpoints in production.
           </div>
           <div class="exp-highlights">
-            <div class="exp-highlight"><strong>APIs REST Enterprise:</strong> ASP.NET Core MVC e Entity Framework Core
+            <div class="exp-highlight"><strong>Enterprise REST APIs:</strong> ASP.NET Core MVC and Entity Framework Core
               (Clean Architecture / SOLID).</div>
-            <div class="exp-highlight"><strong>Cloud-Native Azure:</strong> App Services, Functions, Service Bus e
-              esteiras automatizadas de CI/CD via Azure DevOps.</div>
-            <div class="exp-highlight"><strong>Observabilidade (App Insights):</strong> monitoramento proativo de RAG,
-              métricas de LLM e rastreio de custo por token.</div>
-            <div class="exp-highlight"><strong>IA Generativa Integrada:</strong> LangChain, RAG e LLMs orquestrados por
-              APIs robustas em ambiente corporativo.</div>
+            <div class="exp-highlight"><strong>Cloud-Native Azure:</strong> App Services, Functions, Service Bus and
+              automated CI/CD pipelines via Azure DevOps.</div>
+            <div class="exp-highlight"><strong>Observability (App Insights):</strong> proactive RAG monitoring,
+              LLM metrics and per-token cost tracking.</div>
+            <div class="exp-highlight"><strong>Integrated Generative AI:</strong> LangChain, RAG and LLMs orchestrated by
+              robust APIs in a corporate environment.</div>
           </div>
           <div class="exp-tags">
             <span class="exp-tag">C# / .NET Core</span>
@@ -232,22 +232,20 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         </div>
 
         <div class="exp-card" style="opacity: 0.85;">
-          <div class="exp-org">Advocacia-Geral da União (AGU)</div>
-          <div class="exp-role">Desenvolvedor Fullstack &mdash; Sistemas Jurídicos Enterprise</div>
-          <div class="exp-period">Set 2023 &mdash; Mar 2025 (1 ano 7 meses)</div>
+          <div class="exp-org">Office of the Attorney General of Brazil (AGU)</div>
+          <div class="exp-role">Fullstack Developer &mdash; Enterprise Legal Systems</div>
+          <div class="exp-period">Sep 2023 &mdash; Mar 2025 (1 year 7 months)</div>
           <div class="exp-desc">
-            Desenvolvimento de sistemas de <strong>automação de pareceres jurídicos</strong> e <strong>algoritmo de
-              distribuição de vagas</strong> para a maior advocacia pública do Brasil, atendendo mais de 40.000 usuários
-            internos.
+            Development of systems for <strong>legal opinion automation</strong> and <strong>vacancy distribution
+              algorithm</strong> for the largest public law firm in Brazil, serving more than 40,000 internal users.
           </div>
           <div class="exp-highlights">
-            <div class="exp-highlight"><strong>Ferramenta Ger@AGU:</strong> automação de documentação legal e editais de
-              licitação federais.</div>
-            <div class="exp-highlight"><strong>Integração Super Sapiens:</strong> controle de interfaces e relatórios no
-              maior
-              sistema jurídico do setor público brasileiro.</div>
-            <div class="exp-highlight"><strong>Auditoria de Risco:</strong> sistema de telemetria e logs para
-              diagnóstico e prevenção de violações de segurança.</div>
+            <div class="exp-highlight"><strong>Ger@AGU Tool:</strong> automation of legal documentation and federal
+              public procurement notices.</div>
+            <div class="exp-highlight"><strong>Super Sapiens Integration:</strong> interface control and reporting in
+              the largest legal system in the Brazilian public sector.</div>
+            <div class="exp-highlight"><strong>Risk Audit:</strong> telemetry and logging system for
+              diagnosis and prevention of security violations.</div>
           </div>
           <div class="exp-tags">
             <span class="exp-tag">PHP</span>
@@ -259,20 +257,20 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         </div>
 
         <div class="exp-card" style="opacity: 0.85;">
-          <div class="exp-org">Banco Central do Brasil (BACEN)</div>
-          <div class="exp-role">Desenvolvedor Fullstack Java &mdash; Alta Disponibilidade &amp; Microserviços</div>
-          <div class="exp-period">Dez 2020 &mdash; Abr 2022 (1 ano 5 meses)</div>
+          <div class="exp-org">Central Bank of Brazil (BACEN)</div>
+          <div class="exp-role">Java Fullstack Developer &mdash; High Availability &amp; Microservices</div>
+          <div class="exp-period">Dec 2020 &mdash; Apr 2022 (1 year 5 months)</div>
           <div class="exp-desc">
-            Desenvolvimento do <strong>Chatbot Din 3.0</strong> e atuação no sistema <strong>Valores a Receber</strong>
-            &mdash; plataforma de alta visibilidade pública com picos de milhões de acessos simultâneos e SLA de 99.9%.
+            Development of <strong>Chatbot Din 3.0</strong> and work on the <strong>Valores a Receber</strong> system
+            &mdash; a high-visibility public platform with peaks of millions of simultaneous requests and 99.9% SLA.
           </div>
           <div class="exp-highlights">
-            <div class="exp-highlight"><strong>Chatbot Din 3.0:</strong>arquitetura de microserviços em Spring Cloud
-              para atendimento inteligente ao cidadão.</div>
-            <div class="exp-highlight"><strong>Valores a Receber:</strong>processamento de bilhões de registros e
-              transações com Spring Batch e Kubernetes.</div>
-            <div class="exp-highlight"><strong>Qualidade &amp; CI/CD:</strong>pipelines Jenkins com SonarQube Quality
-              Gate bloqueante (zero deploy sem cobertura).</div>
+            <div class="exp-highlight"><strong>Chatbot Din 3.0:</strong> Spring Cloud microservices architecture
+              for intelligent citizen service.</div>
+            <div class="exp-highlight"><strong>Valores a Receber:</strong> processing of billions of records and
+              transactions with Spring Batch and Kubernetes.</div>
+            <div class="exp-highlight"><strong>Quality &amp; CI/CD:</strong> Jenkins pipelines with blocking SonarQube Quality
+              Gate (zero deploy without coverage).</div>
           </div>
           <div class="exp-tags">
             <span class="exp-tag">Java 17</span>
@@ -288,7 +286,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
 
       <!-- CLIENTS BAR -->
       <div class="clients-bar reveal reveal-delay-4">
-        <div class="clients-bar-label">Clientes que confiaram no método</div>
+        <div class="clients-bar-label">Clients who trusted the method</div>
         <div class="clients-logos">
           <a href="https://giglio.com.br" target="_blank" rel="noopener" class="client-logo-link" title="Giglio Joias">
             <img src="{{ '/assets/img/clientes/svg/Giglio.svg' | relative_url }}" alt="Giglio Joias" class="client-logo" />
@@ -315,13 +313,13 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <!-- SDD PROCESS -->
   <section id="sdd">
     <div class="section-wrap">
-      <div class="section-label reveal">03 — Nossa Metodologia</div>
+      <div class="section-label reveal">03 — Our Methodology</div>
       <h2 class="section-title reveal reveal-delay-1"><span class="outline-word">SDD</span> — Specification-Driven
         Development</h2>
       <div class="sdd-intro reveal reveal-delay-2">
-        <p>A IA é o avião. Eu sou o piloto. Sem uma especificação de voo rigorosa, nenhum avião decola com segurança. O
-          SDD é o sistema de navegação: <strong>7 fases obrigatórias</strong> que garantem que o código gerado já nasça
-          em conformidade com SonarQube, Veracode e os contratos arquiteturais aprovados pela equipe.</p>
+        <p>AI is the airplane. I am the pilot. Without a rigorous flight specification, no airplane takes off safely. SDD
+          is the navigation system: <strong>7 mandatory phases</strong> that ensure generated code is born already
+          compliant with SonarQube, Veracode, and the architectural contracts approved by the team.</p>
       </div>
 
       <div class="sdd-phases reveal reveal-delay-3">
@@ -331,9 +329,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="sdd-phase-icon">📋</div>
           <div class="sdd-phase-name">INIT &amp; Requirements</div>
           <div class="sdd-phase-sub">EARS Notation</div>
-          <div class="sdd-phase-desc">Especificação de requisitos via EARS (Easy Approach to Requirements Syntax). Zero
-            ambiguidade: cada requisito funcional e não-funcional vira uma sentença estruturada, rastreável e testável
-            antes de qualquer linha de código.</div>
+          <div class="sdd-phase-desc">Requirements specification via EARS (Easy Approach to Requirements Syntax). Zero
+            ambiguity: each functional and non-functional requirement becomes a structured, traceable and testable
+            sentence before any line of code.</div>
           <div class="sdd-gate">⚙ Artefato: spec.ears.md</div>
         </div>
 
@@ -341,10 +339,10 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="sdd-phase-num">Fase 02</div>
           <div class="sdd-phase-icon">🔍</div>
           <div class="sdd-phase-name">Gap Analysis</div>
-          <div class="sdd-phase-sub">Decisão Arquitetural A/B/C</div>
-          <div class="sdd-phase-desc">Análise do que existe (codebase, libs, infra) versus o que o spec exige. Três
-            opções arquiteturais são propostas (A, B, C) com trade-offs documentados. O cliente/tech-lead aprova antes
-            de avançar.</div>
+          <div class="sdd-phase-sub">Architectural Decision A/B/C</div>
+          <div class="sdd-phase-desc">Analysis of what exists (codebase, libs, infra) versus what the spec requires. Three
+            architectural options are proposed (A, B, C) with documented trade-offs. The client/tech-lead approves before
+            moving forward.</div>
           <div class="sdd-gate">⚙ Artefato: gap-analysis.md</div>
         </div>
 
@@ -353,8 +351,8 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="sdd-phase-icon">📐</div>
           <div class="sdd-phase-name">Design Gate</div>
           <div class="sdd-phase-sub">Mermaid.js · OpenAPI</div>
-          <div class="sdd-phase-desc">Contratos de API (OpenAPI 3.x), modelos de dados e diagramas de sequência em
-            Mermaid.js são aprovados antes do código. É aqui que SonarQube e Veracode têm seus critérios definidos como
+          <div class="sdd-phase-desc">API contracts (OpenAPI 3.x), data models and sequence diagrams in
+            Mermaid.js are approved before coding. This is where SonarQube and Veracode criteria are defined as
             quality gates.</div>
           <div class="sdd-gate">⚙ Artefato: design.md + openapi.yaml</div>
         </div>
@@ -363,9 +361,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="sdd-phase-num">Fase 04</div>
           <div class="sdd-phase-icon">🗂</div>
           <div class="sdd-phase-name">Tasks &amp; Backlog</div>
-          <div class="sdd-phase-sub">Rastreabilidade Spec→Task</div>
-          <div class="sdd-phase-desc">Cada requisito EARS vira uma task numerada no backlog. A IA recebe contexto
-            cirúrgico: apenas o design e a task corrente. Nenhum código é gerado sem uma task rastreável ao spec.</div>
+          <div class="sdd-phase-sub">Spec→Task Traceability</div>
+          <div class="sdd-phase-desc">Each EARS requirement becomes a numbered task in the backlog. AI receives
+            surgical context: only the design and the current task. No code is generated without a task traceable to the spec.</div>
           <div class="sdd-gate">⚙ Artefato: tasks.md (numerado)</div>
         </div>
 
@@ -373,9 +371,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="sdd-phase-num">Fase 05</div>
           <div class="sdd-phase-icon">⚡</div>
           <div class="sdd-phase-name">Implementation</div>
-          <div class="sdd-phase-sub">Código Fiel ao Design</div>
-          <div class="sdd-phase-desc">Implementação (.NET/C# ou Java 17+) guiada pelo design aprovado. Cada classe,
-            método e endpoint respeita os contratos de API — Clean Architecture e SOLID como baseline.</div>
+          <div class="sdd-phase-sub">Code Faithful to Design</div>
+          <div class="sdd-phase-desc">Implementation (.NET/C# or Java 17+) guided by the approved design. Every class,
+            method and endpoint respects the API contracts — Clean Architecture and SOLID as baseline.</div>
           <div class="sdd-gate">⚙ Artefato: código + commits semânticos</div>
         </div>
 
@@ -383,9 +381,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="sdd-phase-num">Fase 06</div>
           <div class="sdd-phase-icon">✅</div>
           <div class="sdd-phase-name">Validate</div>
-          <div class="sdd-phase-sub">100% Aderência ao Spec</div>
-          <div class="sdd-phase-desc">Checklist de aderência: cada requisito EARS é verificado contra o código entregue.
-            Testes unitários e de integração são gerados a partir dos critérios de aceitação definidos na Fase 01.</div>
+          <div class="sdd-phase-sub">100% Spec Adherence</div>
+          <div class="sdd-phase-desc">Adherence checklist: each EARS requirement is verified against the delivered code.
+            Unit and integration tests are generated from the acceptance criteria defined in Phase 01.</div>
           <div class="sdd-gate">⚙ Artefato: validation-report.md</div>
         </div>
 
@@ -393,9 +391,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="sdd-phase-num">Fase 07</div>
           <div class="sdd-phase-icon">🚀</div>
           <div class="sdd-phase-name">Steering &amp; Retrospective</div>
-          <div class="sdd-phase-sub">Governança Contínua</div>
-          <div class="sdd-phase-desc">Revisão do processo: o que o spec não capturou? Quais trade-offs do Gap Analysis
-            se provaram corretos? O aprendizado alimenta a próxima iteração, fechando o ciclo de melhoria contínua.
+          <div class="sdd-phase-sub">Continuous Governance</div>
+          <div class="sdd-phase-desc">Process review: what did the spec miss? Which Gap Analysis trade-offs
+            proved correct? The learning feeds the next iteration, closing the continuous improvement cycle.
           </div>
           <div class="sdd-gate">⚙ Artefato: steering.md</div>
         </div>
@@ -406,15 +404,15 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
       <div class="sdd-comparativo reveal reveal-delay-4"
         style="margin-top: 5rem; padding-top: 5rem; border-top: 1px dashed var(--light-08);">
 
-        <div class="section-label">Problema vs Solução</div>
-        <h3 class="section-title" style="font-size: clamp(1.5rem, 4vw, 2.5rem); margin-bottom: 1rem;">O Custo da IA
-          <span class="outline-word">Sem Direção</span>
+        <div class="section-label">Problem vs Solution</div>
+        <h3 class="section-title" style="font-size: clamp(1.5rem, 4vw, 2.5rem); margin-bottom: 1rem;">The Cost of AI
+          <span class="outline-word">Without Direction</span>
         </h3>
         <div class="sdd-intro" style="max-width: 800px; margin-bottom: 3rem;">
-          <p>Sem uma metodologia como o SDD, a IA gera código que muitas vezes não reflete o que o negócio realmente
-            precisava. Decisões arquiteturais são tomadas pela IA sem visibilidade humana, gerando surpresas descobertas
-            apenas no final do ciclo. O resultado é um acúmulo de débito técnico e a falta de rastreabilidade entre
-            requisito, design e código.</p>
+          <p>Without a methodology like SDD, AI generates code that often doesn't reflect what the business actually
+            needed. Architectural decisions are made by AI without human visibility, creating surprises discovered
+            only at the end of the cycle. The result is accumulated technical debt and lack of traceability between
+            requirement, design and code.</p>
         </div>
 
         <!-- CARDS DE COMPARAÇÃO -->
@@ -426,38 +424,38 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
             <div style="border-bottom: 1px solid var(--light-08); padding-bottom: 1.5rem; margin-bottom: 1.5rem;">
               <div
                 style="display: inline-block; font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.1em; color: var(--light-60); background: transparent; border: 1px solid var(--light-20); padding: 0.35rem 0.875rem; border-radius: var(--radius-pill); text-transform: uppercase; margin-bottom: 0.875rem;">
-                IA Sem Controle</div>
-              <div style="font-size: 1.35rem; font-weight: 600; color: var(--light-60);">Desenvolvedor Padrão</div>
+                AI Without Control</div>
+              <div style="font-size: 1.35rem; font-weight: 600; color: var(--light-60);">Standard Developer</div>
             </div>
 
             <div style="display: flex; flex-direction: column; gap: 1.5rem;">
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--light-60); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Visibilidade Humana</div>
-                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>Opaca:</strong> O
-                  código surge sem aprovação prévia.</div>
+                  Human Visibility</div>
+                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>Opaque:</strong> Code
+                  appears without prior approval.</div>
               </div>
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--light-60); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Produtividade</div>
-                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>Instável:</strong>
-                  Retrabalho constante por falta de contexto.</div>
+                  Productivity</div>
+                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>Unstable:</strong>
+                  Constant rework due to lack of context.</div>
               </div>
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--light-60); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Débito Técnico</div>
-                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>Alto:</strong> Riscos
-                  descobertos apenas em produção.</div>
+                  Technical Debt</div>
+                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>High:</strong> Risks
+                  discovered only in production.</div>
               </div>
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--light-60); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Rastreabilidade</div>
-                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>Inexistente:</strong>
-                  Difícil auditar o porquê de uma função.</div>
+                  Traceability</div>
+                <div style="font-size: 0.95rem; color: var(--light-60); line-height: 1.5;"><strong>None:</strong>
+                  Hard to audit why a function exists.</div>
               </div>
             </div>
           </div>
@@ -468,9 +466,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
               <div class="badge badge-primary" style="margin-bottom: 0.875rem;">
                 <span
                   style="display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: currentColor;"></span>
-                Governança de IA
+                AI Governance
               </div>
-              <div style="font-size: 1.35rem; font-weight: 600; color: var(--primary);">Maverick Studio (Piloto SDD)
+              <div style="font-size: 1.35rem; font-weight: 600; color: var(--primary);">Maverick Studio (SDD Pilot)
               </div>
             </div>
 
@@ -478,30 +476,30 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--primary); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Visibilidade Humana</div>
-                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>100%:</strong> Toda
-                  decisão é aprovada antes de uma linha de código.</div>
+                  Human Visibility</div>
+                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>100%:</strong> Every
+                  decision is approved before a line of code.</div>
               </div>
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--primary); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Produtividade</div>
-                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>+50%:</strong> Contexto
-                  preservado elimina alinhamentos repetitivos.</div>
+                  Productivity</div>
+                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>+50%:</strong> Preserved
+                  context eliminates repetitive alignment meetings.</div>
               </div>
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--primary); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Débito Técnico</div>
-                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>-70%:</strong> Riscos
-                  mapeados e mitigados na fase de Design Gate.</div>
+                  Technical Debt</div>
+                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>-70%:</strong> Risks
+                  mapped and mitigated in the Design Gate phase.</div>
               </div>
               <div>
                 <div
                   style="font-family: var(--font-mono); font-size: 0.7rem; color: var(--primary); text-transform: uppercase; margin-bottom: 0.25rem;">
-                  Rastreabilidade</div>
-                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>Total:</strong> Cada
-                  linha de código aponta para um requisito EARS.</div>
+                  Traceability</div>
+                <div style="font-size: 0.95rem; color: var(--light); line-height: 1.5;"><strong>Full:</strong> Every
+                  line of code points to an EARS requirement.</div>
               </div>
             </div>
           </div>
@@ -512,21 +510,21 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         <div class="sdd-guarantee reveal">
           <div class="sdd-guar-item">
             <div class="sdd-guar-icon">📜</div>
-            <div class="sdd-guar-label">Segurança de Auditoria</div>
-            <div class="sdd-guar-desc">O uso de Steering Files (tech.md, product.md) garante uma memória estruturada do
-              projeto, evitando que a IA 'esqueça' padrões críticos definidos.</div>
+            <div class="sdd-guar-label">Audit Security</div>
+            <div class="sdd-guar-desc">The use of Steering Files (tech.md, product.md) ensures a structured project memory,
+              preventing AI from 'forgetting' defined critical patterns.</div>
           </div>
           <div class="sdd-guar-item">
             <div class="sdd-guar-icon">⏱️</div>
-            <div class="sdd-guar-label">Previsibilidade de Entrega</div>
-            <div class="sdd-guar-desc">O Gap Analysis oferece opções arquiteturais (A, B, C) com estimativas de esforço
-              e riscos fundamentados em contrato antes de qualquer implantação.</div>
+            <div class="sdd-guar-label">Delivery Predictability</div>
+            <div class="sdd-guar-desc">Gap Analysis offers architectural options (A, B, C) with contract-backed effort
+              estimates and risks before any implementation.</div>
           </div>
           <div class="sdd-guar-item">
             <div class="sdd-guar-icon">🛡️</div>
-            <div class="sdd-guar-label">Compliance Nativo</div>
-            <div class="sdd-guar-desc">O `design.md` age como contrato técnico estrito. Todo o código gerado já nasce
-              aderente para aprovação automática em ferramentas como SonarQube e Veracode.</div>
+            <div class="sdd-guar-label">Native Compliance</div>
+            <div class="sdd-guar-desc">The `design.md` acts as a strict technical contract. All generated code is born
+              already compliant for automatic approval in tools like SonarQube and Veracode.</div>
           </div>
         </div>
 
@@ -534,9 +532,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         <div class="reveal"
           style="margin-top: 4rem; text-align: center; max-width: 800px; margin-left: auto; margin-right: auto; padding: 2.5rem; border: 1px solid var(--primary-40); border-radius: var(--radius-lg); background: linear-gradient(135deg, var(--primary-05), transparent);">
           <div style="font-size: 1.125rem; line-height: 1.8; color: var(--light); font-style: italic;">
-            "No desenvolvimento padrão, o erro custa caro na Produção. No SDD, a dúvida é resolvida na Especificação.
-            <strong style="color: var(--primary); font-style: normal; font-weight: 500;">É a diferença entre o
-              retrabalho e o lucro.</strong>"
+            "In standard development, mistakes are expensive in Production. In SDD, doubts are resolved in the Specification.
+            <strong style="color: var(--primary); font-style: normal; font-weight: 500;">That's the difference between
+              rework and profit.</strong>"
           </div>
         </div>
 
@@ -549,8 +547,8 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <!-- FUNDADOR / SOBRE MIM -->
   <section id="minha-stack">
     <div class="section-wrap">
-      <div class="section-label reveal">04 — O Fundador</div>
-      <h2 class="section-title reveal reveal-delay-1">Elizeu Neto — <span class="outline-word">quem está por trás</span></h2>
+      <div class="section-label reveal">04 — The Founder</div>
+      <h2 class="section-title reveal reveal-delay-1">Elizeu Neto — <span class="outline-word">the person behind it</span></h2>
 
       <div class="founder-outer-grid reveal reveal-delay-2">
 
@@ -569,7 +567,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
               <!-- Label at bottom -->
               <div style="position:absolute;bottom:1rem;left:1rem;z-index:3;">
                 <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.2em;color:var(--primary);text-transform:uppercase;">Elizeu Neto</div>
-                <div style="font-family:var(--font-mono);font-size:.55rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;margin-top:.2rem;">Fundador · Maverick Studio</div>
+                <div style="font-family:var(--font-mono);font-size:.55rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;margin-top:.2rem;">Founder · Maverick Studio</div>
               </div>
             </div>
             <!-- Decorative corners -->
@@ -598,25 +596,25 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <!-- BIO TEXT -->
           <div>
             <p style="font-size:1.05rem;line-height:1.85;color:var(--light-70);margin-bottom:1.25rem;">
-              Desenvolvedor Fullstack com <strong style="color:var(--light);">8+ anos de experiência</strong> em sistemas enterprise. Minha trajetória começou na área de design e UX/UI, uma base que trouxe um diferencial importante para minha atuação técnica. Desenvolvo software considerando, desde o início, a experiência de quem realmente vai usar o produto.
+              Fullstack Developer with <strong style="color:var(--light);">8+ years of experience</strong> in enterprise systems. My journey started in design and UX/UI, a foundation that brought an important differentiator to my technical work. I build software considering, from the start, the experience of the people who will actually use the product.
             </p>
             <p style="font-size:1.05rem;line-height:1.85;color:var(--light-70);margin-bottom:1.25rem;">
-              Enquanto o mercado ainda debate o potencial da IA Generativa, eu já a opero em produção. Na
-              <strong style="color:var(--light);">CI&amp;T</strong>, construo APIs enterprise em <strong style="color:var(--primary);">.NET Core</strong> que combinam
-              operações robustas com endpoints de IA — LangChain, RAG e LLMs orquestrados como componentes de software
-              de primeira classe.
+              While the market still debates the potential of Generative AI, I already operate it in production. At
+              <strong style="color:var(--light);">CI&amp;T</strong>, I build enterprise APIs in <strong style="color:var(--primary);">.NET Core</strong> that combine
+              robust operations with AI endpoints — LangChain, RAG and LLMs orchestrated as first-class software
+              components.
             </p>
             <p style="font-size:1.05rem;line-height:1.85;color:var(--light-70);margin-bottom:1.25rem;">
-              Passei pelo <strong style="color:var(--light);">Banco Central</strong> (SLA 99.9%, milhões de acessos simultâneos),
-              pela <strong style="color:var(--light);">AGU</strong> (40.000+ usuários internos, sistemas jurídicos de missão crítica)
-              e aplico o mesmo nível de rigor em consultorias menores — porque qualidade não é uma questão de
-              escala, é de método.
+              I've worked at the <strong style="color:var(--light);">Central Bank of Brazil</strong> (99.9% SLA, millions of simultaneous requests),
+              at the <strong style="color:var(--light);">AGU</strong> (40,000+ internal users, mission-critical legal systems)
+              and I apply the same level of rigor to smaller engagements — because quality is not a matter of
+              scale, it's a matter of method.
             </p>
             <p style="font-size:1.05rem;line-height:1.85;color:var(--primary);font-weight:500;">
-              Pratico o que defendo: entrego código rastreável, auditável e sem débito técnico via metodologia SDD.
+              I practice what I preach: I deliver traceable, auditable code with no technical debt via the SDD methodology.
             </p>
             <div style="margin-top:2rem;">
-              <a href="#experience" class="btn btn-outline" style="font-size:.85rem;padding:.75rem 1.5rem;">Ver Cases →</a>
+              <a href="#experience" class="btn btn-outline" style="font-size:.85rem;padding:.75rem 1.5rem;">View Cases →</a>
             </div>
           </div>
         </div>
@@ -625,7 +623,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         <div class="founder-stats-grid">
           <div style="border:1px solid var(--primary-40);border-radius:var(--radius-md);padding:1.5rem;background:var(--primary-05);text-align:center;">
             <div style="font-size:2rem;font-weight:900;color:var(--primary);letter-spacing:-.04em;line-height:1;">8+</div>
-            <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;margin-top:.4rem;">Anos</div>
+            <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;margin-top:.4rem;">Years</div>
           </div>
           <div style="border:1px solid var(--primary-40);border-radius:var(--radius-md);padding:1.5rem;background:var(--primary-05);text-align:center;">
             <div style="font-size:2rem;font-weight:900;color:var(--primary);letter-spacing:-.04em;line-height:1;">3</div>
@@ -633,7 +631,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           </div>
           <div style="border:1px solid var(--primary-40);border-radius:var(--radius-md);padding:1.5rem;background:var(--primary-05);text-align:center;">
             <div style="font-size:2rem;font-weight:900;color:var(--primary);letter-spacing:-.04em;line-height:1;">40k+</div>
-            <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;margin-top:.4rem;">Usuários</div>
+            <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.12em;color:var(--light-60);text-transform:uppercase;margin-top:.4rem;">Users</div>
           </div>
           <div style="border:1px solid var(--primary-40);border-radius:var(--radius-md);padding:1.5rem;background:var(--primary-05);text-align:center;">
             <div style="font-size:2rem;font-weight:900;color:var(--primary);letter-spacing:-.04em;line-height:1;">99.9%</div>
@@ -650,13 +648,13 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <!-- SKILLS -->
   <section id="skills">
     <div class="section-wrap">
-      <div class="section-label reveal">05 — Expertise Técnica</div>
-      <h2 class="section-title reveal reveal-delay-1"><span class="outline-word">Arsenal</span> Técnico</h2>
+      <div class="section-label reveal">05 — Technical Expertise</div>
+      <h2 class="section-title reveal reveal-delay-1">Technical <span class="outline-word">Arsenal</span></h2>
 
       <!-- .NET STACK — PRIMARY -->
       <div class="reveal reveal-delay-2" style="margin-bottom: 3.5rem;">
         <div class="section-label" style="margin-bottom:1.25rem; color: var(--primary);">🔷 Back-End .NET &amp; Azure —
-          Stack Principal</div>
+          Main Stack</div>
         <div class="skills-cats-grid">
 
           <div class="ts-category"
@@ -694,14 +692,14 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <div class="ts-category"
             style="border-color: var(--primary-40); background: linear-gradient(135deg, var(--primary-05), transparent);">
             <div class="ts-cat-icon">🗄️</div>
-            <div class="ts-cat-name">Dados &amp; SQL</div>
+            <div class="ts-cat-name">Data &amp; SQL</div>
             <div class="badges-grid">
               <span class="badge badge-primary">SQL Server</span>
-              <span class="badge badge-primary">T-SQL avançado</span>
+              <span class="badge badge-primary">Advanced T-SQL</span>
               <span class="badge badge-primary">Procedures &amp; Views</span>
               <span class="badge badge-primary">Oracle DB</span>
               <span class="badge badge-primary">EF Migrations</span>
-              <span class="badge badge-primary">Modelagem de dados</span>
+              <span class="badge badge-primary">Data Modeling</span>
             </div>
           </div>
 
@@ -751,7 +749,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
               </div>
             </div>
             <div class="metric-bar">
-              <div class="metric-bar-header"><span>SQL Server (queries, procedures)</span><span>85%</span></div>
+              <div class="metric-bar-header"><span>SQL Server (queries, stored procs)</span><span>85%</span></div>
               <div class="bar-track">
                 <div class="bar-fill" data-width="85"></div>
               </div>
@@ -770,8 +768,8 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
 
       <!-- JAVA STACK — SECONDARY -->
       <div class="reveal reveal-delay-3" style="opacity: 0.75;">
-        <div class="section-label" style="margin-bottom:1.25rem; color: var(--light-60);">☕ Back-End Java — Experiência
-          Enterprise</div>
+        <div class="section-label" style="margin-bottom:1.25rem; color: var(--light-60);">☕ Back-End Java — Enterprise
+          Experience</div>
         <div class="skills-bars-grid">
           <div>
             <div class="metric-bar">
@@ -801,7 +799,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
               </div>
             </div>
             <div class="metric-bar">
-              <div class="metric-bar-header"><span>RabbitMQ · Mensageria Assíncrona</span><span>75%</span></div>
+              <div class="metric-bar-header"><span>RabbitMQ · Async Messaging</span><span>75%</span></div>
               <div class="bar-track">
                 <div class="bar-fill" data-width="75"></div>
               </div>
@@ -820,7 +818,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
 
       <!-- COMMON TOOLS -->
       <div class="reveal reveal-delay-4">
-        <div class="section-label" style="margin-bottom:1.25rem;">🛠️ Ferramentas, DevOps &amp; Metodologia</div>
+        <div class="section-label" style="margin-bottom:1.25rem;">🛠️ Tools, DevOps &amp; Methodology</div>
         <div class="badges-grid">
           <span class="badge badge-primary">Git · GitFlow</span>
           <span class="badge badge-primary">Docker</span>
@@ -839,8 +837,8 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
           <span class="badge badge-light">HTML · CSS · JS</span>
           <span class="badge badge-light">React / Next.js</span>
           <span class="badge badge-light">GenAI (Cursor · Claude)</span>
-          <span class="badge badge-light">Arquitetura Hexagonal</span>
-          <span class="badge badge-light">Inglês Avançado</span>
+          <span class="badge badge-light">Hexagonal Architecture</span>
+          <span class="badge badge-light">Advanced English</span>
         </div>
       </div>
 
@@ -851,15 +849,15 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <!-- SERVICES FILTERABLE -->
   <section id="services">
     <div class="section-wrap">
-      <div class="section-label reveal">06 — Soluções</div>
-      <h2 class="section-title reveal reveal-delay-1">O que o <span class="outline-word">Maverick Studio</span> entrega</h2>
-      <p class="section-desc reveal reveal-delay-2">Desenvolvimento Fullstack aplicado a contextos reais: APIs ASP.NET
-        Core em produção no Azure, sistemas Java enterprise, e projetos Web &amp; eCommerce
-        com rastreabilidade completa de requisitos a deploy. Filtre por área:</p>
+      <div class="section-label reveal">06 — Solutions</div>
+      <h2 class="section-title reveal reveal-delay-1">What <span class="outline-word">Maverick Studio</span> delivers</h2>
+      <p class="section-desc reveal reveal-delay-2">Fullstack development applied to real contexts: ASP.NET Core APIs
+        running on Azure, Java enterprise systems, and Web &amp; eCommerce projects
+        with full traceability from requirements to deploy. Filter by area:</p>
 
       <!-- FILTER TABS -->
       <div class="srv-filter-tabs reveal reveal-delay-2">
-        <button class="srv-tab active" data-filter="all"><span>Todos</span></button>
+        <button class="srv-tab active" data-filter="all"><span>All</span></button>
         <button class="srv-tab" data-filter="dotnet"><span>🔷 .NET &amp; Azure</span></button>
         <button class="srv-tab" data-filter="java"><span>☕ Java</span></button>
         <button class="srv-tab" data-filter="web"><span>🌐 Web &amp; eCommerce</span></button>
@@ -873,17 +871,17 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         <div class="service-card" data-cat="dotnet">
           <span class="srv-cat-badge dotnet">.NET &amp; Azure</span>
           <div class="service-icon">🔷</div>
-          <div class="service-name">Arquitetura Enterprise com ASP.NET Core</div>
-          <div class="service-desc">Design e implementação de soluções backend robustas em C#/.NET Core: APIs RESTful,
-            Clean Architecture, SOLID e Entity Framework. Código auditável, contratos OpenAPI versionados e cobertura de
-            testes com xUnit desde o primeiro Sprint.</div>
+          <div class="service-name">Enterprise Architecture with ASP.NET Core</div>
+          <div class="service-desc">Design and implementation of robust backend solutions in C#/.NET Core: RESTful APIs,
+            Clean Architecture, SOLID and Entity Framework. Auditable code, versioned OpenAPI contracts and test coverage
+            with xUnit from the first Sprint.</div>
           <div class="service-meta">
             <span class="service-pill">C# / .NET Core</span>
             <span class="service-pill">ASP.NET Core</span>
             <span class="service-pill">Entity Framework</span>
             <span class="service-pill">OpenAPI / Swagger</span>
             <span class="service-pill">xUnit / SOLID</span>
-            <span class="service-pill pill-light">⏱ 2–3 semanas/Sprint</span>
+            <span class="service-pill pill-light">⏱ 2–3 weeks/Sprint</span>
           </div>
         </div>
 
@@ -893,17 +891,17 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
             style="background:rgba(151,191,92,.15);color:var(--primary);border-color:var(--primary-40);">🤖
             AI-First</span>
           <div class="service-icon">🤖</div>
-          <div class="service-name">Integração de IA Generativa &amp; LLMs</div>
-          <div class="service-desc">Incorporação de Inteligência Artificial Generativa em sistemas backend: pipelines
-            RAG com recuperação semântica, orquestração de LLMs via LangChain e prompt engineering. Endpoints de IA com
-            observabilidade de custo por token, latência e taxa de acerto — prontos para produção.</div>
+          <div class="service-name">Generative AI &amp; LLM Integration</div>
+          <div class="service-desc">Embedding Generative AI into backend systems: RAG pipelines with semantic retrieval,
+            LLM orchestration via LangChain and prompt engineering. AI endpoints with per-token cost observability,
+            latency and hit rate — production-ready.</div>
           <div class="service-meta">
             <span class="service-pill">LangChain</span>
             <span class="service-pill">RAG / Embeddings</span>
             <span class="service-pill">OpenAI / Azure OpenAI</span>
             <span class="service-pill">Prompt Engineering</span>
             <span class="service-pill">Vector DB</span>
-            <span class="service-pill pill-light">⏱ 1–2 semanas/Sprint</span>
+            <span class="service-pill pill-light">⏱ 1–2 weeks/Sprint</span>
           </div>
         </div>
 
@@ -912,34 +910,33 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         <div class="service-card" data-cat="dotnet">
           <span class="srv-cat-badge dotnet">.NET &amp; Azure</span>
           <div class="service-icon">☁️</div>
-          <div class="service-name">Deploy Cloud-Native no Azure</div>
-          <div class="service-desc">Implantação e gestão de aplicações cloud-native no Azure: App Services, Azure
-            Functions (serverless), SQL Database e Service Bus. CI/CD via Azure DevOps com pipelines de deploy
-            automatizado e rollback garantido.</div>
+          <div class="service-name">Cloud-Native Deploy on Azure</div>
+          <div class="service-desc">Deployment and management of cloud-native applications on Azure: App Services, Azure
+            Functions (serverless), SQL Database and Service Bus. CI/CD via Azure DevOps with automated deployment
+            pipelines and guaranteed rollback.</div>
           <div class="service-meta">
             <span class="service-pill">Azure App Services</span>
             <span class="service-pill">Azure Functions</span>
             <span class="service-pill">Service Bus</span>
             <span class="service-pill">Azure DevOps</span>
             <span class="service-pill">CI/CD</span>
-            <span class="service-pill pill-light">⏱ 1 semana/Sprint</span>
+            <span class="service-pill pill-light">⏱ 1 week/Sprint</span>
           </div>
         </div>
 
         <div class="service-card" data-cat="dotnet">
           <span class="srv-cat-badge dotnet">.NET &amp; Azure</span>
           <div class="service-icon">📊</div>
-          <div class="service-name">Observabilidade e Telemetria de LLMs</div>
-          <div class="service-desc">Implementação de observabilidade com Azure Application Insights: logging
-            estruturado, monitoramento de métricas de performance e métricas específicas de LLM (latência, custo por
-            token, taxa de acerto do RAG).</div>
+          <div class="service-name">LLM Observability &amp; Telemetry</div>
+          <div class="service-desc">Observability implementation with Azure Application Insights: structured logging,
+            performance metrics monitoring and LLM-specific metrics (latency, cost per token, RAG hit rate).</div>
           <div class="service-meta">
             <span class="service-pill">App Insights</span>
-            <span class="service-pill">Telemetria</span>
+            <span class="service-pill">Telemetry</span>
             <span class="service-pill">LLM Monitoring</span>
             <span class="service-pill">Azure Monitor</span>
             <span class="service-pill">Logging</span>
-            <span class="service-pill pill-light">⏱ Setup: 1 semana</span>
+            <span class="service-pill pill-light">⏱ Setup: 1 week</span>
           </div>
         </div>
 
@@ -947,9 +944,9 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         <div class="service-card" data-cat="java">
           <span class="srv-cat-badge java">☕ Java</span>
           <div class="service-icon">☕</div>
-          <div class="service-name">Desenvolvimento Java 17+ com Spring</div>
-          <div class="service-desc">Implementação full-cycle com Spring Boot (Web, Batch, Security, Cloud Config, Data
-            JPA/REST). Arquitetura aderente a contratos de API aprovados — Clean Code, SOLID e alta cobertura de testes.
+          <div class="service-name">Java 17+ Development with Spring</div>
+          <div class="service-desc">Full-cycle implementation with Spring Boot (Web, Batch, Security, Cloud Config, Data
+            JPA/REST). Architecture adherent to approved API contracts — Clean Code, SOLID and high test coverage.
           </div>
           <div class="service-meta">
             <span class="service-pill">Java 17+</span>
@@ -958,33 +955,32 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
             <span class="service-pill">Spring Batch</span>
             <span class="service-pill">Spring Security</span>
             <span class="service-pill">Data JPA</span>
-            <span class="service-pill pill-light">⏱ Prazo: 2–3 semanas/Sprint</span>
+            <span class="service-pill pill-light">⏱ 2–3 weeks/Sprint</span>
           </div>
         </div>
 
         <div class="service-card" data-cat="java">
           <span class="srv-cat-badge java">☕ Java</span>
           <div class="service-icon">📡</div>
-          <div class="service-name">Arquitetura de Microserviços &amp; Mensageria</div>
-          <div class="service-desc">Design e implementação de microserviços com Spring Cloud, mensageria assíncrona via
-            RabbitMQ/ActiveMQ e orquestração Kubernetes. Trade-offs documentados antes do primeiro commit.</div>
+          <div class="service-name">Microservices Architecture &amp; Messaging</div>
+          <div class="service-desc">Design and implementation of microservices with Spring Cloud, async messaging via
+            RabbitMQ/ActiveMQ and Kubernetes orchestration. Trade-offs documented before the first commit.</div>
           <div class="service-meta">
             <span class="service-pill">Spring Cloud</span>
             <span class="service-pill">RabbitMQ</span>
             <span class="service-pill">ActiveMQ</span>
             <span class="service-pill">Kubernetes</span>
             <span class="service-pill">Docker</span>
-            <span class="service-pill pill-light">⏱ Prazo: 2–4 semanas/Sprint</span>
+            <span class="service-pill pill-light">⏱ 2–4 weeks/Sprint</span>
           </div>
         </div>
 
         <div class="service-card" data-cat="java">
           <span class="srv-cat-badge java">☕ Java</span>
           <div class="service-icon">🛡️</div>
-          <div class="service-name">Qualidade de Código &amp; CI/CD</div>
-          <div class="service-desc">Pipeline Jenkins com SonarQube Quality Gate bloqueante e análise SAST Veracode
-            integrada. Suite de testes JUnit gerada a partir dos critérios de aceitação. Flyway para migrações
-            auditáveis.</div>
+          <div class="service-name">Code Quality &amp; CI/CD</div>
+          <div class="service-desc">Jenkins pipeline with blocking SonarQube Quality Gate and integrated Veracode SAST
+            analysis. JUnit test suite generated from acceptance criteria. Flyway for auditable migrations.</div>
           <div class="service-meta">
             <span class="service-pill">JUnit 5</span>
             <span class="service-pill">Mockito</span>
@@ -993,7 +989,7 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
             <span class="service-pill">Flyway</span>
             <span class="service-pill">MapStruct</span>
             <span class="service-pill">Jenkins</span>
-            <span class="service-pill pill-light">⏱ Setup: 1 semana</span>
+            <span class="service-pill pill-light">⏱ Setup: 1 week</span>
           </div>
         </div>
 
@@ -1001,61 +997,60 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
         <div class="service-card" data-cat="web">
           <span class="srv-cat-badge web">Web &amp; eCommerce</span>
           <div class="service-icon">🛒</div>
-          <div class="service-name">Plataformas eCommerce</div>
-          <div class="service-desc">Desenvolvimento de lojas online completas: catálogo de produtos, carrinho, checkout
-            com gateway de pagamento, integração com ERP (Tiny/Bling), logística e painel administrativo. Design
-            aprovado antes do primeiro commit — sem surpresas de escopo.</div>
+          <div class="service-name">eCommerce Platforms</div>
+          <div class="service-desc">Full online store development: product catalog, cart, checkout with payment gateway,
+            ERP integration (Tiny/Bling), logistics and admin panel. Design approved before the first commit — no scope
+            surprises.</div>
           <div class="service-meta">
             <span class="service-pill">WooCommerce / Custom</span>
-            <span class="service-pill">Gateway de Pagamento</span>
-            <span class="service-pill">Integração ERP</span>
-            <span class="service-pill">Logística &amp; Frete</span>
-            <span class="service-pill">Painel Admin</span>
-            <span class="service-pill pill-light">⏱ A partir de 8 Sprints</span>
+            <span class="service-pill">Payment Gateway</span>
+            <span class="service-pill">ERP Integration</span>
+            <span class="service-pill">Logistics &amp; Shipping</span>
+            <span class="service-pill">Admin Panel</span>
+            <span class="service-pill pill-light">⏱ From 8 Sprints</span>
           </div>
         </div>
 
         <div class="service-card" data-cat="web">
           <span class="srv-cat-badge web">Web &amp; eCommerce</span>
           <div class="service-icon">🏢</div>
-          <div class="service-name">Sites Institucionais</div>
-          <div class="service-desc">Portais institucionais e corporativos com identidade visual consistente, blog
-            integrado e CMS para gestão autônoma de conteúdo. Inclui SEO técnico, acessibilidade WCAG e estratégia
-            editorial definida com o cliente antes da implementação.</div>
+          <div class="service-name">Institutional Websites</div>
+          <div class="service-desc">Institutional and corporate portals with consistent visual identity, integrated blog
+            and CMS for autonomous content management. Includes technical SEO, WCAG accessibility and editorial strategy
+            defined with the client before implementation.</div>
           <div class="service-meta">
-            <span class="service-pill">CMS Gerenciável</span>
+            <span class="service-pill">Manageable CMS</span>
             <span class="service-pill">Blog / Editorial</span>
-            <span class="service-pill">SEO Técnico</span>
-            <span class="service-pill">Acessibilidade WCAG</span>
-            <span class="service-pill">Identidade Visual</span>
-            <span class="service-pill pill-light">⏱ A partir de 4 Sprints</span>
+            <span class="service-pill">Technical SEO</span>
+            <span class="service-pill">WCAG Accessibility</span>
+            <span class="service-pill">Visual Identity</span>
+            <span class="service-pill pill-light">⏱ From 4 Sprints</span>
           </div>
         </div>
 
         <div class="service-card" data-cat="web">
           <span class="srv-cat-badge web">Web &amp; eCommerce</span>
           <div class="service-icon">🎨</div>
-          <div class="service-name">Branding &amp; Identidade Visual</div>
-          <div class="service-desc">Criação ou rebranding completo: logotipo, paleta de cores, tipografia e manual de
-            marca. Inclui material institucional (cartão de visita, assinatura de e-mail, papelaria) e Design System
-            pronto para o desenvolvimento do site.</div>
+          <div class="service-name">Branding &amp; Visual Identity</div>
+          <div class="service-desc">Full creation or rebranding: logo, color palette, typography and brand guidelines.
+            Includes institutional materials (business card, email signature, stationery) and a Design System
+            ready for website development.</div>
           <div class="service-meta">
-            <span class="service-pill">Logotipo</span>
-            <span class="service-pill">Manual de Marca</span>
+            <span class="service-pill">Logo</span>
+            <span class="service-pill">Brand Guidelines</span>
             <span class="service-pill">Design System</span>
-            <span class="service-pill">Papelaria</span>
-            <span class="service-pill pill-light">⏱ A partir de 2 Sprints</span>
+            <span class="service-pill">Stationery</span>
+            <span class="service-pill pill-light">⏱ From 2 Sprints</span>
           </div>
         </div>
 
         <div class="service-card" data-cat="web">
           <span class="srv-cat-badge web">Web &amp; eCommerce</span>
           <div class="service-icon">🚀</div>
-          <div class="service-name">Landing Pages &amp; Conversão</div>
-          <div class="service-desc">Páginas de alta performance focadas em resultado: design validado antes da
-            implementação,
-            SEO on-page, Core Web Vitals otimizados e monitoramento de conversão. Entrega rápida sem abrir mão de
-            de qualidade técnica.</div>
+          <div class="service-name">Landing Pages &amp; Conversion</div>
+          <div class="service-desc">High-performance pages focused on results: design validated before implementation,
+            on-page SEO, optimized Core Web Vitals and conversion monitoring. Fast delivery without sacrificing
+            technical quality.</div>
           <div class="service-meta">
             <span class="service-pill">HTML / CSS / JS</span>
             <span class="service-pill">CRO</span>
@@ -1073,11 +1068,11 @@ description: "Portfólio de Elizeu Neto — ASP.NET Backend Sr Engineer. .NET Co
   <!-- CONTACT -->
   <section id="contact">
     <div class="section-wrap contact-section">
-      <div class="section-label reveal">07 — Contato</div>
-      <h2 class="section-title reveal reveal-delay-1">Pronto para <span class="outline-word">Decolar?</span></h2>
-      <p class="section-desc reveal reveal-delay-2" style="margin:0 auto 3rem;text-align:center;max-width:520px;">Tem um
-        desafio em <strong style="color:var(--primary)">.NET/Azure</strong> ou precisa de software backend enterprise?
-        Vamos conversar antes de codificar.</p>
+      <div class="section-label reveal">07 — Contact</div>
+      <h2 class="section-title reveal reveal-delay-1">Ready to <span class="outline-word">Take Off?</span></h2>
+      <p class="section-desc reveal reveal-delay-2" style="margin:0 auto 3rem;text-align:center;max-width:520px;">Have a
+        <strong style="color:var(--primary)">.NET/Azure</strong> challenge or need enterprise backend software?
+        Let's talk before we code.</p>
       <div class="reveal reveal-delay-3">
         <a href="mailto:elizeun@ciandt.com" class="contact-email">elizeun@ciandt.com</a>
       </div>

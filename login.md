@@ -1,28 +1,28 @@
 ---
 layout: default
-title: "Acesso Restrito"
-description: "Página de login"
+title: "Restricted Access"
+description: "Login page"
 ---
 
 <div class="login-container">
   <div class="login-card">
     <div class="login-icon">🔒</div>
-    <h1 class="login-title">Acesso Restrito</h1>
-    <p class="login-sub">Esta página requer autenticação.</p>
+    <h1 class="login-title">Restricted Access</h1>
+    <p class="login-sub">This page requires authentication.</p>
 
     <form id="loginForm" class="login-form" novalidate>
       <div class="field-group">
-        <label for="username">Usuário</label>
+        <label for="username">Username</label>
         <input type="text" id="username" name="username" autocomplete="username"
-               placeholder="Digite seu usuário" required />
+               placeholder="Enter your username" required />
       </div>
       <div class="field-group">
-        <label for="password">Senha</label>
+        <label for="password">Password</label>
         <input type="password" id="password" name="password" autocomplete="current-password"
-               placeholder="Digite sua senha" required />
+               placeholder="Enter your password" required />
       </div>
-      <p class="login-error" id="loginError" hidden>Usuário ou senha incorretos.</p>
-      <button type="submit" class="login-btn" id="loginBtn">Entrar</button>
+      <p class="login-error" id="loginError" hidden>Incorrect username or password.</p>
+      <button type="submit" class="login-btn" id="loginBtn">Sign In</button>
     </form>
   </div>
 </div>
@@ -167,7 +167,7 @@ description: "Página de login"
     const pass = document.getElementById('password').value;
 
     btn.disabled = true;
-    btn.textContent = 'Verificando...';
+    btn.textContent = 'Verifying...';
     err.hidden = true;
 
     const hash = await sha256(pass);
@@ -178,7 +178,7 @@ description: "Página de login"
     } else {
       err.hidden = false;
       btn.disabled = false;
-      btn.textContent = 'Entrar';
+      btn.textContent = 'Sign In';
     }
   });
 })();

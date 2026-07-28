@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'pt-BR' }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,7 +29,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:site_name" content="{{ site.title | escape }}">
-    <meta property="og:locale" content="pt_BR">
+    <meta property="og:locale" content="en_US">
     
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
@@ -43,7 +43,7 @@
     <link rel="canonical" href="{{ page.url | absolute_url }}">
   </head>
   <body>
-    <a href="#content" class="sr-only sr-only-focusable">Pular para o conteúdo</a>
+    <a href="#content" class="sr-only sr-only-focusable">Skip to content</a>
     
     {{ content }}
     
